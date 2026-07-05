@@ -1,0 +1,20 @@
+Comando: mkdir
+Muestra: No muestra información del sistema; crea una nueva carpeta.
+Utilidad: Permite organizar los archivos y directorios de un proyecto.
+
+Comando: cd
+Muestra: No muestra información del sistema; cambia el directorio actual.
+Utilidad: Permite desplazarse entre carpetas para trabajar en la ubicación correcta.
+
+Comando: uname -a
+Muestra: Información del sistema operativo, como el nombre del sistema, la versión del kernel y la arquitectura.
+Utilidad: Ayuda a conocer las características del servidor para administrarlo correctamente.
+
+Comando: whoami
+Muestra: El nombre del usuario que está utilizando el sistema.
+Utilidad: Permite verificar con qué usuario se están ejecutando los comandos.
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+y otras características importantes. Esto facilita la administración
+del servidor, la solución de problemas y la ejecución correcta de tareas de mantenimiento.
